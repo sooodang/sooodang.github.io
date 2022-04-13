@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pixyll</title>
+    <title>Sujin</title>
     <description>A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>sort homework.</title>
+        <title>sort homework</title>
         <description>&lt;h2 id=&quot;sort-basics&quot;&gt;Sort Basics&lt;/h2&gt;
 
 &lt;p&gt;Pixyll is free and open source software under the MIT license, a &lt;em&gt;permissive license&lt;/em&gt;.  You can use Pixyll without charge and it is provided to you, “as is”, without warranty of any kind.&lt;/p&gt;
@@ -32,18 +32,25 @@
 
 &lt;p&gt;Your only responsibility is to preserve both the copyright notices of Pixyll and the MIT license in your copy or modified work.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Apr 2022 19:22:00 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/pixyll/2022/04/13/sort/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/pixyll/2022/04/13/sort/</guid>
+        <pubDate>Wed, 13 Apr 2022 20:38:00 +0900</pubDate>
+        <link>http://localhost:4000/algorithm/2022/04/13/sort/</link>
+        <guid isPermaLink="true">http://localhost:4000/algorithm/2022/04/13/sort/</guid>
       </item>
     
       <item>
-        <title>hello i am bot.</title>
-        <description>&lt;p&gt;hello i am bot.&lt;/p&gt;
+        <title>Markdown Post</title>
+        <description>&lt;h3 id=&quot;hello-i-am-bot&quot;&gt;hello i am bot.&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
+
+void main() {
+  printf(&quot;hello world&quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 19:22:00 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/pixyll/2022/04/12/practice-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/pixyll/2022/04/12/practice-markdown/</guid>
+        <link>http://localhost:4000/markdown/2022/04/12/practice-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/markdown/2022/04/12/practice-markdown/</guid>
       </item>
     
       <item>

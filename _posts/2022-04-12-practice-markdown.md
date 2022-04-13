@@ -1,9 +1,17 @@
 ---
 layout: post
-title: hello i am bot.
+title: Markdown Post
 date: 2022-04-12 19:22
-summary: Pixyll is available to you under the MIT license.
-categories: jekyll pixyll
+summary: Markdown is Difficult
+categories: markdown
 ---
 
-hello i am bot.
+### hello i am bot.
+
+```
+#include <stdio.h>
+
+void main() {
+  printf("hello world");
+}
+```
