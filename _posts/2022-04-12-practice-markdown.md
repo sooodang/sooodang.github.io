@@ -9,9 +9,5 @@ categories: markdown
 ### hello i am bot.
 
 ```
-#include <stdio.h>
-
-void main() {
-  printf("hello world");
-}
+test
 ```
