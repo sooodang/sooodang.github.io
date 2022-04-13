@@ -12,6 +12,6 @@ categories: markdown
 #include <stdio.h>
 
 void main() {
-  printf("hello world sujin");
+  printf("hello world");
 }
 ```
