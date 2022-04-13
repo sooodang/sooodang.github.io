@@ -25,3 +25,5 @@ Other rights you have of Pixyll under the MIT license:
 - You can distribute copies of Pixyll to others under either the MIT license or you can **relicense** Pixyll under another license.  This includes a different permissive license, a copyleft license or a proprietary license.
 
 Your only responsibility is to preserve both the copyright notices of Pixyll and the MIT license in your copy or modified work.
+
+this is homework
