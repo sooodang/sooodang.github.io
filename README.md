@@ -1,4 +1,4 @@
-# Ford-Fulkerson Algorithm
+Ford-Fulkerson Algorithm
 ==========================
 
 개념 
@@ -10,7 +10,7 @@
 * Source: 시작점
 * Sink: 도착점
 * Capacity: 용량 (간선에서 소화 가능한 최대 양 or 값)
-* Flow: 유량 (간선에서 용량을 점유하고 있는, 사용하고있는 양 or 값)
+* Flow: 유량 간선에서 용량을 점유하고 있는, 사용하고있는 양 or 값
 * c(a, b): 정점 a 에서 b로, 소화 가능한(남은) 용량 값
 * f(a, b): 정점 a 에서 b로, 사용하고 있는(쓴) 유량 값 
 
